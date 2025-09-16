@@ -1,0 +1,98 @@
+.container{
+    background-image: url(image/pexels-artempodrez-4492126.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.Navbar{
+    display: flex;
+    
+
+}
+.logo{
+    margin-left: 60px;
+    margin-top: 50px;
+    cursor: pointer;
+    
+}
+
+button{
+    margin-left: 95rem;
+    margin-top: 50px;
+    border: none;
+    color: rgb(239, 239, 241);
+    background-color: rgb(110, 110, 245);
+    
+}
+
+button:hover{
+    padding: 15px;
+    background-color: black;
+
+}
+
+.banner{
+    font-size: 50px;
+    margin-left: 60px;
+}
+
+.about-Qaiba{
+    display: flex;
+    margin-top: 45rem;
+}
+.sidepic{
+    display: flex;
+    height: 600px;
+    width: 600px;
+    margin-left: -60px;
+
+}
+
+.qaiba{
+    margin-left: 25rem;
+}
+
+.qaiba h1{
+    font-size: 70px;
+    padding: 20px;
+}
+
+.qaiba p{
+    font-size: 25px;
+    margin-top: -60px;
+    padding: 20px;
+    
+}
+
+.btn{
+    margin-left: -0px;
+
+    padding: 17px;
+    
+    
+}
+
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+
+
+.card{
+    display: flex;
+    gap: 60px;
+    margin-left: 20rem;
+}
+
+h3{
+    text-align: center;
+    font-size: 25px;
+
+}
+.p{
+    text-align: center;
+}
+.service-pic{
+    background-image: url(image/drew-beamer-kUHfMW8awpE-unsplash.jpg);
+    background-size: cover;
+    height: 70vh;
+}
