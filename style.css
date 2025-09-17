@@ -1,5 +1,5 @@
 .container{
-    background-image: url(image/pexels-artempodrez-4492126.jpg);
+    background-image: url(https://images.unsplash.com/photo-1758072328635-586f3c121af2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyfHx8ZW58MHx8fHx8);
     background-size: cover;
     height: 100vh;
 }
@@ -16,7 +16,7 @@
 }
 
 button{
-    margin-left: 95rem;
+    margin-left: 70rem;
     margin-top: 50px;
     border: none;
     color: rgb(239, 239, 241);
@@ -37,18 +37,20 @@ button:hover{
 
 .about-Qaiba{
     display: flex;
-    margin-top: 45rem;
+    margin-top: 25rem;
 }
 .sidepic{
     display: flex;
     height: 600px;
     width: 600px;
     margin-left: -60px;
+    margin-bottom: 60px;
 
 }
 
 .qaiba{
     margin-left: 25rem;
+    margin-top: -30px;
 }
 
 .qaiba h1{
@@ -80,7 +82,7 @@ h2{
 .card{
     display: flex;
     gap: 60px;
-    margin-left: 20rem;
+    margin-left: 10rem;
 }
 
 h3{
@@ -92,7 +94,27 @@ h3{
     text-align: center;
 }
 .service-pic{
-    background-image: url(image/drew-beamer-kUHfMW8awpE-unsplash.jpg);
+    background-image: url(https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2hpdGUlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww);
     background-size: cover;
-    height: 70vh;
+    height: 80vh;
+    padding-top: 30px;
 }
+
+.bor{
+    border: 1px solid rgb(133, 131, 131);
+}
+
+.twopic{
+    margin-top: -250px;
+}
+
+.cients{
+    display: flex;
+    grid-template-columns: repeat(2,1);
+}
+.cilentsthree{
+    margin-left: 47rem;
+    font-size: 20px;
+}
+
+
